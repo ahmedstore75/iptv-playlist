@@ -2,7 +2,12 @@ name: Tapmad Playlist BD
 
 on:
   workflow_dispatch: # ম্যানুয়ালি রান করার জন্য
-  workflow_call:     # এটি দিলে Master Controller একে কল করতে পারবে
+  workflow_call:     # Master Controller এর জন্য
+  schedule:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর অটো আপডেট হওয়ার জন্য
+
+permissions:
+  contents: write # Git Commit & Push করার পারমিশন
 
 jobs:
   update-playlist:
@@ -12,7 +17,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # পুরো গিট হিস্ট্রি নেওয়ার জন্য, যা রিব্যাস (rebase) করতে সাহায্য করবে
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -34,14 +39,12 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # ফাইলটি পরিবর্তন হয়েছে কিনা তা চেক করে অ্যাড করা
+        # পরিবর্তন ট্র্যাক করা
         git add Tapmad.m3u
         
-        # কোনো পরিবর্তন না থাকলে যেন এরর না দেয় (exit 0)
-        git commit -m "Automated Tapmad Playlist Update" || exit 0
+        # পরিবর্তন না থাকলে এরর না দিয়ে সহজে বের হয়ে যাওয়া
+        git diff-index --quiet HEAD || git commit -m "Automated Tapmad Playlist Update"
         
-        # অন্য কোনো জব আগে পুশ করে থাকলে, সেই পরিবর্তনগুলো আগে টেনে আনা
-        git pull --rebase origin main
-        
-        # ফাইনালি পুশ করা
-        git push origin main
+        # rebase করে সেফ পুশ করা
+        git pull --rebase origin main || true
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
