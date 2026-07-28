@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
          alt="Gitter">
   
-  <a href="https://saythanks.io/to/ahammadali.aa@gmail.com">
+  <a href="https://t.me/banglatvlivefree">
       <img src="https://img.shields.io/badge/Team_X_SM-%E2%98%BC-green.svg">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.tapmad.tapmadtv">
@@ -24,7 +24,7 @@
 
 
 <h1 align="center">
- <a href="https://www.tapmad.com/"><img src="https://github.com/ahammadali/Tapmad_Auto_Update_Playlist/blob/main/image/unnamed.webp"></a>
+ <a href="https://www.tapmad.com/"><img src="https://t.me/banglatvlivefree"></a>
 </h1>
 
 
@@ -43,7 +43,7 @@
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahmedstore75/iptv-playlist/refs/heads/main/Tapmad_sm.m3u)
 * 
 *  Enjoy 😊
 
@@ -55,7 +55,7 @@
 Enjoy 😊
 
 **🙂 Use Tapmad Json 🙂**
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahmedstore75/iptv-playlist/refs/heads/main/Tapmad_sm.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahmedstore75/iptv-playlist/refs/heads/main/Tapmad_sm.json)
 
  
 # 🛡️ Credits
