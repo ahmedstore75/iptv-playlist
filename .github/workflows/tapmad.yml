@@ -1,0 +1,58 @@
+name: Tapmad Auto Update Playlist
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Public Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests cloudscraper beautifulsoup4
+
+      - name: Fetch Python Script from Private Repo
+        env:
+          REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
+        run: |
+          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
+          cp private_code/tapmad_sm.py ./
+          rm -rf private_code
+
+      - name: Run Scraper Script
+        run: python tapmad_sm.py
+
+      - name: Clean up Python Script
+        run: rm -f tapmad_sm.py
+
+      - name: Commit and Push M3U and JSON Files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # M3U এবং JSON দুটি ফাইলই ট্র্যাকিংয়ে যুক্ত করা হলো
+          git add Tapmad_sm.m3u Tapmad_sm.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🔁 Tapmad Playlist & JSON Auto-updated"
+            git push origin HEAD
+          fi
