@@ -49,13 +49,13 @@
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahmedstore75/iptv-playlist/refs/heads/main/Tapmad_sm.m3u)
 
 
 Enjoy 😊
 
 **🙂 Use Tapmad Json 🙂**
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahmedstore75/iptv-playlist/refs/heads/main/Tapmad_sm.m3u)
 
  
 # 🛡️ Credits
