@@ -24,7 +24,7 @@
 
 
 <h1 align="center">
- <a href="https://www.tapmad.com/"><img src="https://github.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/blob/main/image/unnamed.webp"></a>
+ <a href="https://www.tapmad.com/"><img src="https://github.com/ahammadali/Tapmad_Auto_Update_Playlist/blob/main/image/unnamed.webp"></a>
 </h1>
 
 
@@ -43,24 +43,24 @@
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
 * 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.m3u)
 
 
 Enjoy 😊
 
 **🙂 Use Tapmad Json 🙂**
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/sm-monirulislam/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/ahammadali/AynaOTT-auto-update-playlist/refs/heads/main/AynaOTT.json)
 
  
 # 🛡️ Credits
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Made+By+Monirul+Islam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=00000000&width=400&lines=Made+By+Ahammad+Ali)](https://git.io/typing-svg)
 
 
 # 📝Note
@@ -75,11 +75,11 @@ Enjoy 😊
 ## CONNECT WITH US :
 
 
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://Monirul.github.io)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/monirul_Islam_SM)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://ahammadali.github.io)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/banglatvlivefree)
 
 #### 👤 Project Maintainer
-**Monirul Islam**  
+**Ahammad Ali**  
 Maintained with ❤️ in Bangladesh 🇧🇩
 # knowledged SM
 ## Special Thanks <span style="font-size:45px;">👇</span>
@@ -94,9 +94,9 @@ Maintained with ❤️ in Bangladesh 🇧🇩
 
 <a href="#">
   <img 
-    title="SM Monirul Islam"
-    src="https://img.shields.io/badge/SM%20Monirul%20Islam-purple?style=for-the-badge&logo=github"
-    alt="SM Monirul Islam"
+    title="Ahammad Ali"
+    src="https://img.shields.io/badge/Ahammad%20Ali-purple?style=for-the-badge&logo=github"
+    alt="Ahammad Ali"
   >
 </a>
 
