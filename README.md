@@ -24,7 +24,7 @@
 
 
 <h1 align="center">
- <a href="https://www.tapmad.com/"><img src="https://t.me/banglatvlivefree"></a>
+ <a href="https://www.tapmad.com/"><img src="https://github.com/ahmedstore75/iptv-playlist/blob/main/image/unnamed.webp"></a>
 </h1>
 
 
