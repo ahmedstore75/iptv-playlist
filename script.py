@@ -1,40 +1,46 @@
+import re
 import datetime
 import requests
-import pytz  # BD TimeZone এর জন্য
+import pytz
 
 OUTPUT_FILE = "Tapmad_sm.m3u"
-
-# আপনার M3U প্লেলিস্টের ডাটা (সরাসরি সোর্স ইউআরএল থাকলে এখানে বসাতে পারেন)
 RAW_M3U_URL = "https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/main/Tapmad_sm.m3u"
 
-def generate_playlist():
+def update_playlist():
     try:
-        # বাংলাদেশ সময় নির্ধারণ
+        # ১. বাংলাদেশ সময় বের করা
         bd_tz = pytz.timezone('Asia/Dhaka')
         current_bd_time = datetime.datetime.now(bd_tz).strftime("%Y-%m-%d %H:%M:%S")
 
-        # সোর্স থেকে প্লেলিস্ট ডাউনলোড করা
+        # ২. সোর্স থেকে প্লেলিস্ট ফেচ করা
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(RAW_M3U_URL, headers=headers, timeout=15)
         
-        if response.status_code == 200:
-            lines = response.text.splitlines()
-        else:
-            print("Failed to fetch M3U playlist from source.")
+        if response.status_code != 200:
+            print(f"Failed to fetch source playlist. Status code: {response.status_code}")
             return
 
-        # চ্যানেল সংখ্যা গণনা (#EXTINF দিয়ে যতগুলো চ্যানেল শুরু হয়েছে)
-        channel_count = sum(1 for line in lines if line.strip().startswith("#EXTINF:"))
+        raw_text = response.text.strip()
 
-        # বডি থেকে পুরনো হেডার/কমেন্ট বাদ দিয়ে শুধু চ্যানেলের অংশ আলাদা করা
-        channel_body_lines = []
+        # ৩. হেডার ব্লকের পর থেকে শুধু চ্যানেল সংক্রান্ত লাইনগুলো বের করে নেওয়া
+        lines = raw_text.splitlines()
+        clean_lines = []
+        skip_header = True
+
         for line in lines:
-            if line.strip().startswith("#EXTM3U") or line.strip().startswith("#="):
+            line_str = line.strip()
+            # হেডার বা পুরোনো কমেন্ট বাদ দেওয়া
+            if skip_header and (line_str.startswith("#EXTM3U") or line_str.startswith("#=") or line_str.startswith("#  ")):
                 continue
-            channel_body_lines.append(line)
+            skip_header = False
+            if line_str:
+                clean_lines.append(line_str)
 
-        # আপনার পছন্দমত কাস্টম হেডার তৈরি
-        custom_header = f"""#EXTM3U
+        # ৪. সঠিকভাবে মোট চ্যানেলের সংখ্যা গণনা করা (#EXTINF গণনা করে)
+        channel_count = sum(1 for line in clean_lines if line.startswith("#EXTINF:"))
+
+        # ৫. আপনার হুবহু ফরম্যাটে নতুন হেডার তৈরি করা
+        header = f"""#EXTM3U
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
@@ -43,17 +49,17 @@ def generate_playlist():
 #=================================
 """
 
-        # নতুন কাস্টম হেডার ও চ্যানেল লিস্ট একত্র করা
-        full_playlist_content = custom_header + "\n".join(channel_body_lines)
+        # ৬. হেডার এবং চ্যানেলের ডাটা যুক্ত করে ফাইলে সেভ করা
+        channels_body = "\n".join(clean_lines)
+        final_playlist = f"{header}\n{channels_body}\n"
 
-        # ফাইলে সেভ করা
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write(full_playlist_content.strip() + "\n")
+            f.write(final_playlist)
 
-        print(f"Playlist successfully updated! Channels found: {channel_count}")
+        print(f"Playlist successfully updated! Total Channels: {channel_count}")
 
     except Exception as e:
-        print(f"Error updating playlist: {e}")
+        print(f"Error occurred while updating playlist: {e}")
 
 if __name__ == "__main__":
-    generate_playlist()
+    update_playlist()
