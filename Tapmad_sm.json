@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-07-30 23:23:44 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-07-31 00:55:04 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15195",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853239801020x576men.jpg",
+            "group": "Cricket",
+            "name": "Southern Brave vs Birmingham Pheonix | The Hundred Men's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        }
+    ]
 }
