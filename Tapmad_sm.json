@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-07-31 03:41:48 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15611",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853980571020x576.jpg",
-            "group": "Mma",
-            "name": "Ceremonial Weigh-In | PFL 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        }
-    ]
+    "last_updated": "2026-07-31 05:03:13 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
