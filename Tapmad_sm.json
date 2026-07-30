@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-07-30 15:13:30 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-07-30 17:28:23 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15477",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853970941020x576.jpg",
+            "group": "Cricket",
+            "name": "Sri Lanka Lions vs Afghanistan Pathans | Asian Legends League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        }
+    ]
 }
