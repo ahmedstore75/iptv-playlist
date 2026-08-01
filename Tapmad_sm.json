@@ -1,23 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-02 02:48:00 (BD Time)",
-    "channels_count": 3,
+    "last_updated": "2026-08-02 03:52:42 (BD Time)",
+    "channels_count": 1,
     "channels": [
-        {
-            "id": "tapmad-15198",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854837331020x576men.jpg",
-            "group": "Cricket",
-            "name": "London Spirits vs Southern Brave | The Hundred Men's Competition 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-15569",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854016681020x576.jpg",
-            "group": "Mma",
-            "name": "Medic vs Rodriguez | UFC 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15646",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856027301020x576.jpg",
