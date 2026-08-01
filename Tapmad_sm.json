@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-02 03:52:42 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15646",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856027301020x576.jpg",
-            "group": "Racing",
-            "name": "GT World Challenge - Race 1 Live | GT World Challenge EU & Asia 2026",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-02 04:52:31 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
