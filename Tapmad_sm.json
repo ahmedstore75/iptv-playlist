@@ -1,15 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-01 06:03:34 (BD Time)",
+    "last_updated": "2026-08-01 09:59:51 (BD Time)",
     "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-15582",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854021651020x576.jpg",
-            "group": "Mma",
-            "name": "Nurmagomedov vs Colgan | PFL 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-15587",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854813721020x576.jpg",
+            "group": "Racing",
+            "name": "Qualifications - Kyrgyzstan Live | UIM F1H2O World Championship 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
