@@ -1,22 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-01 18:03:13 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-01 20:05:55 (BD Time)",
+    "channels_count": 3,
     "channels": [
-        {
-            "id": "tapmad-15231",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854830381020x576women.jpg",
-            "group": "Cricket",
-            "name": "Birmingham Pheonix vs Welsh Fire - Women | The Hundred Women's Competition 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-15481",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854900531020x576.jpg",
             "group": "Cricket",
             "name": "Sri Lankan lions vs Bangladesh Tigers | Asian Legends League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15197",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854833191020x576men.jpg",
+            "group": "Cricket",
+            "name": "Birmingham Pheonix vs Welsh Fire | The Hundred Men's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-15232",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854835001020x576women.jpg",
+            "group": "Cricket",
+            "name": "London Spirits vs Southern Brave - Women | The Hundred Women's Competition 2026",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
