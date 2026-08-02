@@ -1,22 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-02 14:19:51 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-02 16:14:04 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-15475",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853991961020x576.jpg",
-            "group": "Cricket",
-            "name": "Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+            "id": "tapmad-15658",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856057191020x576.jpg",
+            "group": "Racing",
+            "name": "GT World Challenge - Qualifying 2 Live | GT World Challenge EU & Asia 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "id": "tapmad-15652",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856032421020x576.jpg",
+            "id": "tapmad-15605",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855945291020x576.jpg",
             "group": "Racing",
-            "name": "France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026",
+            "name": "Grand Prix of Kyrgyzstan - Issyk - Kul Live | UIM F1H2O World Championship 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-15664",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856073841020x576.jpg",
+            "group": "Racing",
+            "name": "French Porsche and Elf Cup Live | GT World Challenge EU & Asia 2026",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-15233",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855950071020x576women.jpg",
+            "group": "Cricket",
+            "name": "Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }

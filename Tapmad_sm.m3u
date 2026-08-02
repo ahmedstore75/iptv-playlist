@@ -2,10 +2,14 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-08-02 14:19:51 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-08-02 16:14:04 (BD Time)
+#  Channels Count: 4
 #=================================
-#EXTINF:-1 tvg-id="tapmad-15475" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853991961020x576.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856032421020x576.jpg" group-title="Racing", France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-15658" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856057191020x576.jpg" group-title="Racing", GT World Challenge - Qualifying 2 Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15605" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855945291020x576.jpg" group-title="Racing", Grand Prix of Kyrgyzstan - Issyk - Kul Live | UIM F1H2O World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15664" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856073841020x576.jpg" group-title="Racing", French Porsche and Elf Cup Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15233" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855950071020x576women.jpg" group-title="Cricket", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
