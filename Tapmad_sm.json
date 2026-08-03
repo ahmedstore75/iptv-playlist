@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-03 16:12:12 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15483",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856899481020x576.jpg",
-            "group": "Cricket",
-            "name": "Afghanistan Pathans vs Bangladesh Tigers | Asian Legends League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-03 19:24:25 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
