@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-05 03:47:47 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-05 05:00:13 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
             "id": "tapmad-15336",
@@ -10,13 +10,6 @@
             "group": "Cricket",
             "name": "West indies vs Pakistan | Pakistan Tour of West Indies 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15202",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857407801020x576men.jpg",
-            "group": "Cricket",
-            "name": "Sunrisers leeds vs London Spirit | The Hundred Men's Competition 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
