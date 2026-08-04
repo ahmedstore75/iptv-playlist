@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-04 04:57:48 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15336",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg",
-            "group": "Cricket",
-            "name": "West indies vs Pakistan | Pakistan Tour of West Indies 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-04 06:11:37 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
