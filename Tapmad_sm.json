@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-05 15:18:46 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-05 17:36:27 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15237",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859079721020x576women.jpg",
+            "group": "Cricket",
+            "name": "Manchester Super Giants vs Welsh Fire - Women | The Hundred Women's Competition 2026",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+    ]
 }
