@@ -3,8 +3,8 @@ import datetime
 import requests
 import pytz
 
-M3U_OUTPUT_FILE = "Tapmad_sm.m3u"
-JSON_OUTPUT_FILE = "Tapmad_sm.json"
+M3U_OUTPUT_FILE = "Tapmad.m3u"
+JSON_OUTPUT_FILE = "Tapmad.json"
 RAW_M3U_URL = "https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/main/Tapmad_sm.m3u"
 
 def parse_and_update_playlists():
