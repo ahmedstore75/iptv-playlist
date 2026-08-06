@@ -2,7 +2,7 @@ name: Tapmad Playlist Auto Updater
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক চলবে
+    - cron: '*/31 * * * *' # প্রতি ৩০ মিনিট পর পর অটোমেটিক চলবে
   workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
 
 jobs:
