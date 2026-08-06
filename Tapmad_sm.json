@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-06 15:21:11 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-06 17:39:27 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15713",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg",
+            "group": "E Sports",
+            "name": "PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        }
+    ]
 }
