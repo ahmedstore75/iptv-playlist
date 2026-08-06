@@ -1,15 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-06 17:39:27 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-06 20:00:40 (BD Time)",
+    "channels_count": 3,
     "channels": [
+        {
+            "id": "tapmad-15239",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17859163661020x576women.jpg",
+            "group": "Cricket",
+            "name": "London Spirits vs MI London - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
         {
             "id": "tapmad-15713",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857609431020x576.jpg",
             "group": "E Sports",
             "name": "PUBG Mobile - Day 1 | Esports World Cup 2026 (EWC)",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-15701",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857606101020x576.jpg",
+            "group": "E Sports",
+            "name": "Tekken 8 - Day 2 | Esports World Cup 2026 (EWC)",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         }
     ]
 }
