@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-08 21:40:22 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-08-08 22:43:43 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-15207",
@@ -17,13 +17,6 @@
             "group": "Cricket",
             "name": "Southern Brave vs Manchester Super Giants - Women | The Hundred Women's Competition 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15715",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860927951020x576.jpg",
-            "group": "E Sports",
-            "name": "PUBG Mobile - Day 3 | Esports World Cup 2026 (EWC)",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         },
         {
             "id": "tapmad-15703",
