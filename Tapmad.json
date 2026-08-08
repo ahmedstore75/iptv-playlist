@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-09 04:37:19 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-09 05:36:29 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15777",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17860849811020x576.jpg",
+            "group": "Cricket",
+            "name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        }
+    ]
 }
