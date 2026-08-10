@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-10 19:58:35 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-10 21:10:28 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15245",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863484271020x576women.jpg",
+            "group": "Cricket",
+            "name": "Trent Rockets vs Southern Brave - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
