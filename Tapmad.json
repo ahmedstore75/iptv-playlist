@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-11 17:23:33 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-11 18:24:36 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15717",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17863500271020x576.jpg",
+            "group": "E Sports",
+            "name": "PUBG Mobile - Day 5 | Esports World Cup 2026 (EWC)",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
