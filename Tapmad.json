@@ -1,22 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-12 20:00:30 (BD Time)",
-    "channels_count": 3,
+    "last_updated": "2026-08-12 21:30:38 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-15247",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864502241020x576women.jpg",
+            "id": "tapmad-15948",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864283631020x576.jpg",
+            "group": "Padel",
+            "name": "VB Realty Cheetahs vs Panorama Panthers | World Padel League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15213",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg",
             "group": "Cricket",
-            "name": "Welsh Fire vs London Spirit - Women | The Hundred Women's Competition 2026",
+            "name": "Welsh Fire vs London Spirit | The Hundred Men's Competition 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15947",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864280871020x576.jpg",
-            "group": "Padel",
-            "name": "Aussie Mavericks Jaguars vs Vedanta Leopards | World Padel League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "id": "tapmad-15248",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864511721020x576women.jpg",
+            "group": "Cricket",
+            "name": "Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "id": "tapmad-15718",
