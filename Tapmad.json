@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-12 05:20:45 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-12 06:08:48 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15779",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864353801020x576.jpg",
+            "group": "Cricket",
+            "name": "Jamaica Kingsmen vs Barbados Tridents | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        }
+    ]
 }
