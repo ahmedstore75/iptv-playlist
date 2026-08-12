@@ -1,21 +1,14 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-12 23:04:26 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-13 00:28:38 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-15213",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg",
+            "id": "tapmad-15214",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864514161020x576men.jpg",
             "group": "Cricket",
-            "name": "Welsh Fire vs London Spirit | The Hundred Men's Competition 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15248",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864511721020x576women.jpg",
-            "group": "Cricket",
-            "name": "Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026",
+            "name": "Birmingham Pheonix vs MI London | The Hundred Men's Competition 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
