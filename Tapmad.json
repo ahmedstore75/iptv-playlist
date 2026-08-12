@@ -1,7 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-12 15:43:03 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-12 17:05:14 (BD Time)",
+    "channels_count": 3,
+    "channels": [
+        {
+            "id": "tapmad-15247",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864502241020x576women.jpg",
+            "group": "Cricket",
+            "name": "Welsh Fire vs London Spirit - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15947",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864280871020x576.jpg",
+            "group": "Padel",
+            "name": "Aussie Mavericks Jaguars vs Vedanta Leopards | World Padel League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15718",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864517521020x576.jpg",
+            "group": "E Sports",
+            "name": "PUBG Mobile - Day 6 | Esports World Cup 2026 (EWC)",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+    ]
 }
