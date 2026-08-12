@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-13 04:51:31 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-13 05:50:57 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15780",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865199491020x576.jpg",
+            "group": "Cricket",
+            "name": "St Lucia Kings vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
