@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-12 21:30:38 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-08-12 23:04:26 (BD Time)",
+    "channels_count": 2,
     "channels": [
-        {
-            "id": "tapmad-15948",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864283631020x576.jpg",
-            "group": "Padel",
-            "name": "VB Realty Cheetahs vs Panorama Panthers | World Padel League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "id": "tapmad-15213",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864505401020x576men.jpg",
@@ -24,13 +17,6 @@
             "group": "Cricket",
             "name": "Birmingham Pheonix vs MI London - Women | The Hundred Women's Competition 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-15718",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864517521020x576.jpg",
-            "group": "E Sports",
-            "name": "PUBG Mobile - Day 6 | Esports World Cup 2026 (EWC)",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
