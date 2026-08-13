@@ -2,7 +2,10 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-08-14 00:29:27 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-08-14 01:39:37 (BD Time)
+#  Channels Count: 2
 #=================================
-
+#EXTINF:-1 tvg-id="tapmad-15965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866168841020x576.jpg" group-title="Football", Al-Shabab vs Al Qadsiah | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866169701020x576.jpg" group-title="Football", Diriyah vs Al-Ahli | Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
