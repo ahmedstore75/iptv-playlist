@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-13 15:42:20 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-13 17:05:17 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15949",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865192921020x576.jpg",
+            "group": "Padel",
+            "name": "Game Changer Lions vs Hubtown Panorama Panthers | World Padel League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        }
+    ]
 }
