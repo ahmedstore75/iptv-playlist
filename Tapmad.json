@@ -1,7 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-14 05:51:31 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-14 08:33:26 (BD Time)",
+    "channels_count": 2,
+    "channels": [
+        {
+            "id": "tapmad-15958",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg",
+            "group": "Cricket",
+            "name": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15781",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17866087761020x576.jpg",
+            "group": "Cricket",
+            "name": "Jamaica Kingsmen vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        }
+    ]
 }
