@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-14 23:04:03 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-15 00:26:59 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
             "id": "tapmad-15215",
@@ -10,6 +10,13 @@
             "group": "Cricket",
             "name": "Manchester Super Giants vs Sunrisers Leeds | The Hundred Men's Competition 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15968",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867052971020x576.jpg",
+            "group": "Football",
+            "name": "Al-Hilal vs Al-Faisaly | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
