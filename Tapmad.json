@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-15 04:31:03 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-15 05:28:42 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15782",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867325191020x576.jpg",
+            "group": "Cricket",
+            "name": "St Lucia Kings vs Antigua and Barbuda Falcons | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+        }
+    ]
 }
