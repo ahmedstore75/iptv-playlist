@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-15 14:38:14 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-15 15:33:05 (BD Time)",
+    "channels_count": 1,
     "channels": [
-        {
-            "id": "tapmad-15958",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg",
-            "group": "Cricket",
-            "name": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-15925",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
