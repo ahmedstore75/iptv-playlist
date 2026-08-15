@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-15 09:49:26 (BD Time)",
+    "last_updated": "2026-08-15 10:39:12 (BD Time)",
     "channels_count": 2,
     "channels": [
         {
@@ -12,11 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
-            "id": "tapmad-15782",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867325191020x576.jpg",
+            "id": "tapmad-15925",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
             "group": "Cricket",
-            "name": "St Lucia Kings vs Antigua and Barbuda Falcons | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
