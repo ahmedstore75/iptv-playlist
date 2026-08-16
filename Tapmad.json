@@ -1,22 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-16 18:53:30 (BD Time)",
+    "last_updated": "2026-08-16 19:37:11 (BD Time)",
     "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-15925",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
-            "group": "Cricket",
-            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+            "id": "tapmad-15956",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868707321020x576.jpg",
+            "group": "Padel",
+            "name": "Aussie Mavericks Jaguars vs VB Realty Cheetahs | World Padel League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-15955",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868704411020x576.jpg",
-            "group": "Padel",
-            "name": "Game Changer Lions vs Vedanta Leopards | World Padel League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "id": "tapmad-15250",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867594911020x576women.jpg",
+            "group": "Cricket",
+            "name": "Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "id": "tapmad-15721",
