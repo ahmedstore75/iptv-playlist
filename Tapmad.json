@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-17 00:39:11 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-17 01:26:53 (BD Time)",
+    "channels_count": 1,
     "channels": [
-        {
-            "id": "tapmad-15957",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17868901271020x576.jpg",
-            "group": "Padel",
-            "name": "Game Changer Lions vs Aussie Mavericks Jaguars | World Padel League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-15216",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17867599901020x576men.jpg",
