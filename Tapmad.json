@@ -1,14 +1,21 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-17 22:36:22 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-17 23:33:54 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-16136",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869711821020x576.jpg",
+            "id": "tapmad-16137",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869751111020x576WOMEN.jpg",
             "group": "Hockey",
-            "name": "India vs England | FIH Hockey World Cup 2026",
+            "name": "Germany vs Argentina - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16138",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869752671020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Australia vs Netherlands - W | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         }
     ]
