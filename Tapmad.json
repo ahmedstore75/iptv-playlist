@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-18 13:48:07 (BD Time)",
+    "last_updated": "2026-08-18 14:47:26 (BD Time)",
     "channels_count": 2,
     "channels": [
         {
@@ -12,11 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16123",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869638001020x576.jpg",
-            "group": "Football",
-            "name": "Group Stage Draw Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16140",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17869748101020x576.jpg",
+            "group": "Hockey",
+            "name": "New Zealand vs Japan | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
