@@ -1,36 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-19 03:30:54 (BD Time)",
-    "channels_count": 4,
-    "channels": [
-        {
-            "id": "tapmad-16147",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870590811020x576WOMEN.jpg",
-            "group": "Hockey",
-            "name": "Spain vs Belgium - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16080",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1787040004540x302.jpg",
-            "group": "Football",
-            "name": "Levski Sofia vs AEK | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16081",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870402311020x576.jpg",
-            "group": "Football",
-            "name": "Dinamo Zagreb vs Viking | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16082",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870405171020x576.jpg",
-            "group": "Football",
-            "name": "Fenerbache vs OL | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-19 04:31:44 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
