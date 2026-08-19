@@ -1,15 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-19 10:09:57 (BD Time)",
+    "last_updated": "2026-08-19 11:04:34 (BD Time)",
     "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-15785",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870463701020x576.jpg",
+            "id": "tapmad-15925",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
             "group": "Cricket",
-            "name": "Jamaica Kingsmen vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
