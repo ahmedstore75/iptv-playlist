@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-19 14:47:24 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-19 15:41:05 (BD Time)",
+    "channels_count": 1,
     "channels": [
-        {
-            "id": "tapmad-15925",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg",
-            "group": "Cricket",
-            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16148",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870591481020x576WOMEN.jpg",
