@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-19 19:01:05 (BD Time)",
+    "last_updated": "2026-08-19 20:08:28 (BD Time)",
     "channels_count": 2,
     "channels": [
         {
@@ -12,11 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16151",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871313501020x576WOMEN.jpg",
+            "id": "tapmad-16152",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870501971020x576MEN.jpg",
             "group": "Hockey",
-            "name": "United States vs Germany - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "name": "Pakistan vs India | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
