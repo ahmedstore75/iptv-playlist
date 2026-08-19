@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-20 01:32:25 (BD Time)",
+    "last_updated": "2026-08-20 02:36:27 (BD Time)",
     "channels_count": 6,
     "channels": [
-        {
-            "id": "tapmad-15933",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-16155",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870507361020x576MEN.jpg",
@@ -45,6 +38,13 @@
             "group": "Football",
             "name": "Slovan Bratislava vs Celje | UEFA Champions League 2026/27",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16095",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871347421020x576.jpg",
+            "group": "Football",
+            "name": "Atletico Madrid vs Malaga | Laliga 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
