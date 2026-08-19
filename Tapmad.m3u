@@ -2,10 +2,12 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-08-19 22:42:17 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-08-19 23:33:09 (BD Time)
+#  Channels Count: 3
 #=================================
 #EXTINF:-1 tvg-id="tapmad-15933" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-16153" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870504611020x576MEN.jpg" group-title="Hockey", France vs Germany | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16154" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871314871020x576WOMEN.jpg" group-title="Hockey", Netherlands vs Japan - W | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
