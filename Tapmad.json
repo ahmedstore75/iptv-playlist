@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-19 17:32:38 (BD Time)",
-    "channels_count": 3,
+    "last_updated": "2026-08-19 19:01:05 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
             "id": "tapmad-15933",
@@ -12,18 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16149",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871312231020x576WOMEN.jpg",
+            "id": "tapmad-16151",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871313501020x576WOMEN.jpg",
             "group": "Hockey",
-            "name": "Argentina vs Scotland - W | FIH Hockey World Cup 2026",
+            "name": "United States vs Germany - W | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16150",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870499701020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "England vs Wales | FIH Hockey World Cup 2026",
-            "url": "https://wcemeabackup.akamaized.net/hls/live/2103768/ucl-3tap293/master.m3u8"
         }
     ]
 }
