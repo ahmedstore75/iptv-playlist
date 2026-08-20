@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-20 23:58:19 (BD Time)",
+    "last_updated": "2026-08-21 00:54:15 (BD Time)",
     "channels_count": 3,
     "channels": [
         {
@@ -12,18 +12,18 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16161",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871375521020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "Ireland vs Spain | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
             "id": "tapmad-16162",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17871380941020x576MEN.jpg",
             "group": "Hockey",
             "name": "Netherlands vs Japan | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15973",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872289441020x576.jpg",
+            "group": "Football",
+            "name": "Al-Fayha vs Al-Hilal | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         }
     ]
 }
