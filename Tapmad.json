@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-21 13:25:44 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-21 14:08:18 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-16164",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872947541020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Japan vs South Africa - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        }
+    ]
 }
