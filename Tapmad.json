@@ -1,15 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-21 15:09:46 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-21 16:02:50 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-16164",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872947541020x576WOMEN.jpg",
+            "id": "tapmad-15933",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865273991020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16165",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872926461020x576MEN.jpg",
             "group": "Hockey",
-            "name": "Japan vs South Africa - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "name": "France vs South Africa | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
