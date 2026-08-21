@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-22 01:31:11 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-22 02:33:28 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-15976",
@@ -17,6 +17,13 @@
             "group": "Hockey",
             "name": "Australia vs Belgium | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16097",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873103211020x576.jpg",
+            "group": "Football",
+            "name": "Betis vs Real Sociedad | Laliga 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
