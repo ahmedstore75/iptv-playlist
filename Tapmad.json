@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-21 16:59:44 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-21 17:36:02 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-15933",
@@ -17,6 +17,13 @@
             "group": "Hockey",
             "name": "France vs South Africa | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16166",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873088791020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "England vs Chile - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
