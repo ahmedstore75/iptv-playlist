@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-21 09:10:18 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15787",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872104641020x576.jpg",
-            "group": "Cricket",
-            "name": "Anitgua and Barbuda Falcons vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-21 10:11:29 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
