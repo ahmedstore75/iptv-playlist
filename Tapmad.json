@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-22 17:51:01 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-22 18:53:35 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-16173",
@@ -10,6 +10,20 @@
             "group": "Hockey",
             "name": "Ireland vs Scotland - W | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16237",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg",
+            "group": "Kabaddi",
+            "name": "Euro Kabaddi Mens and Womens | Euro Beach Kabaddi Championship 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16174",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873429811020x576MEN.jpg",
+            "group": "Hockey",
+            "name": "Pakistan vs Japan | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         }
     ]
 }

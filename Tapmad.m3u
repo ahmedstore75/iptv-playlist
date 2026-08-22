@@ -2,8 +2,12 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-08-22 17:51:01 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-22 18:53:35 (BD Time)
+#  Channels Count: 3
 #=================================
 #EXTINF:-1 tvg-id="tapmad-16173" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg" group-title="Hockey", Ireland vs Scotland - W | FIH Hockey World Cup 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16237" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg" group-title="Kabaddi", Euro Kabaddi Mens and Womens | Euro Beach Kabaddi Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16174" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873429811020x576MEN.jpg" group-title="Hockey", Pakistan vs Japan | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
