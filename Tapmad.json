@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-22 18:53:35 (BD Time)",
+    "last_updated": "2026-08-22 19:37:32 (BD Time)",
     "channels_count": 3,
     "channels": [
-        {
-            "id": "tapmad-16173",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873436421020x576WOMEN.jpg",
-            "group": "Hockey",
-            "name": "Ireland vs Scotland - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-16237",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg",
@@ -24,6 +17,13 @@
             "group": "Hockey",
             "name": "Pakistan vs Japan | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16175",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873440931020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "USA vs New Zealand - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
