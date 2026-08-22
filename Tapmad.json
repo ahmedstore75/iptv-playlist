@@ -1,22 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-22 20:53:32 (BD Time)",
+    "last_updated": "2026-08-22 21:28:38 (BD Time)",
     "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-16237",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872966291020x576.jpg",
-            "group": "Kabaddi",
-            "name": "Euro Kabaddi Mens and Womens | Euro Beach Kabaddi Championship 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-16176",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873433291020x576MEN.jpg",
+            "group": "Hockey",
+            "name": "Netherlands vs India | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16175",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873440931020x576WOMEN.jpg",
-            "group": "Hockey",
-            "name": "USA vs New Zealand - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "id": "tapmad-16098",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873104241020x576.jpg",
+            "group": "Football",
+            "name": "Athletic vs Sevilla | Laliga 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
