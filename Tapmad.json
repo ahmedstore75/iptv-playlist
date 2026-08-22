@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-22 21:51:51 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-22 22:33:30 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
             "id": "tapmad-16176",
@@ -17,6 +17,20 @@
             "group": "Football",
             "name": "Athletic vs Sevilla | Laliga 2026/27",
             "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16177",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873443111020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Germany vs Belgium - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15978",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873122241020x576.jpg",
+            "group": "Football",
+            "name": "Al Fateh vs Al-Ettifaq | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
