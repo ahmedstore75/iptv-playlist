@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-23 00:40:23 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-08-23 01:28:02 (BD Time)",
+    "channels_count": 3,
     "channels": [
-        {
-            "id": "tapmad-15978",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873122241020x576.jpg",
-            "group": "Football",
-            "name": "Al Fateh vs Al-Ettifaq | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
         {
             "id": "tapmad-16178",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874125691020x576MEN.jpg",
