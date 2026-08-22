@@ -1,22 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-23 03:52:27 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-23 04:29:41 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-16179",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874174051020x576WOMEN.jpg",
-            "group": "Hockey",
-            "name": "Argentina vs Spain - W | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16100",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874169871020x576.jpg",
-            "group": "Football",
-            "name": "Espanyol vs Real Madrid | Laliga 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            "id": "tapmad-16134",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872149291020x576.jpg",
+            "group": "Mma",
+            "name": "Cyborg vs Vieira | PFL 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
