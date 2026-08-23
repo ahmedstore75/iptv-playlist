@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-23 10:11:02 (BD Time)",
+    "last_updated": "2026-08-23 11:03:54 (BD Time)",
     "channels_count": 3,
     "channels": [
         {
@@ -12,11 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16134",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872149291020x576.jpg",
-            "group": "Mma",
-            "name": "Cyborg vs Vieira | PFL 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-15926",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
+            "group": "Cricket",
+            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
             "id": "tapmad-15918",
