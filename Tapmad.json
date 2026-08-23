@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-24 00:39:59 (BD Time)",
-    "channels_count": 3,
+    "last_updated": "2026-08-24 01:27:26 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
             "id": "tapmad-16186",
@@ -17,6 +17,13 @@
             "group": "Football",
             "name": "Getafe vs Racing Santander | Laliga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16187",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874534201020x576MEN.jpg",
+            "group": "Hockey",
+            "name": "Spain vs Belgium | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
             "id": "tapmad-16325",
