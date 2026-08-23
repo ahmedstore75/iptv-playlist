@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-23 21:53:53 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-23 22:34:43 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-16184",
@@ -17,6 +17,13 @@
             "group": "Football",
             "name": "Atletico Madrid vs Villarreal | Laliga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16185",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874531741020x576MEN.jpg",
+            "group": "Hockey",
+            "name": "Germany vs Australia | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
