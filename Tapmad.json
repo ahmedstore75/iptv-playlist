@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-24 04:54:04 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-08-24 05:28:28 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15790",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17874992801020x576.jpg",
+            "group": "Cricket",
+            "name": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        }
+    ]
 }
