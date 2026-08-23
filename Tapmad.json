@@ -1,9 +1,16 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-23 05:50:41 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-23 07:52:07 (BD Time)",
+    "channels_count": 5,
     "channels": [
+        {
+            "id": "tapmad-15959",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17870481021020x576.jpg",
+            "group": "Cricket",
+            "name": "Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
         {
             "id": "tapmad-16134",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872149291020x576.jpg",
@@ -17,6 +24,20 @@
             "group": "Cricket",
             "name": "Anitgua and Barbuda Falcons vs Trinbago Knight Riders | Caribbean Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15575",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17872300511020x576.jpg",
+            "group": "Mma",
+            "name": "Hernandez vs Rodrigues | UFC 2026",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "id": "tapmad-15918",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873567261020x576.jpg",
+            "group": "Cricket",
+            "name": "Watch Free - Australia vs Bangladesh | Bangladesh Tour of Australia 2026",
+            "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap253/master.m3u8"
         }
     ]
 }
