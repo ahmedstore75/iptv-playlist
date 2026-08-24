@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-25 01:35:42 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-08-25 02:39:10 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
             "id": "tapmad-16286",
@@ -10,20 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15982",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875581851020x576.jpg",
-            "group": "Football",
-            "name": "Neom vs Al Qadsiah | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16104",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875577421020x576.jpg",
-            "group": "Football",
-            "name": "Osasuna vs Levante | Laliga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "id": "tapmad-15983",
@@ -38,6 +24,13 @@
             "group": "Hockey",
             "name": "Belgium vs Argentina - W | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16105",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875592391020x576.jpg",
+            "group": "Football",
+            "name": "Malaga vs Deportivo | Laliga 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
