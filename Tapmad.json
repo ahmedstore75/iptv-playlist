@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-24 16:47:21 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-24 17:36:15 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-15926",
@@ -17,6 +17,13 @@
             "group": "Hockey",
             "name": "New Zealand vs Scotland - W | FIH Hockey World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16190",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875535461020x576MEN.jpg",
+            "group": "Hockey",
+            "name": "New Zealand vs Pakistan | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         }
     ]
 }
