@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-25 00:54:45 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-08-25 01:35:42 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
             "id": "tapmad-16286",
@@ -10,13 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16194",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875543391020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "Netherlands vs England | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
         },
         {
             "id": "tapmad-15982",
@@ -31,6 +24,20 @@
             "group": "Football",
             "name": "Osasuna vs Levante | Laliga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-15983",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875589821020x576.jpg",
+            "group": "Football",
+            "name": "Al-Ittihad vs Al-Hazem | Saudi Pro League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-16195",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875598281020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Belgium vs Argentina - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
