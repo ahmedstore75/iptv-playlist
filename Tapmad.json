@@ -1,7 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-24 15:57:29 (BD Time)",
+    "last_updated": "2026-08-24 16:47:21 (BD Time)",
     "channels_count": 2,
     "channels": [
         {
@@ -12,11 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16188",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875533141020x576MEN.jpg",
+            "id": "tapmad-16189",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875566491020x576WOMEN.jpg",
             "group": "Hockey",
-            "name": "Japan vs Wales | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+            "name": "New Zealand vs Scotland - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
