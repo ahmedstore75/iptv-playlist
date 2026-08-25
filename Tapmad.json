@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-26 01:38:04 (BD Time)",
-    "channels_count": 6,
+    "last_updated": "2026-08-26 02:37:29 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
             "id": "tapmad-16287",
@@ -10,13 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-16087",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875672671020x576.jpg",
-            "group": "Football",
-            "name": "Sabah vs H. Beer-Sheva | UEFA Champions League 2026/27",
-            "url": "https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8"
         },
         {
             "id": "tapmad-15986",
@@ -37,7 +30,7 @@
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875676351020x576.jpg",
             "group": "Football",
             "name": "LASK vs Celtic | UEFA Champions League 2026/27",
-            "url": "https://tapmad-live.cdn.vustreams.com/live/4fd42f58-615d-4df3-bf89-c76079b1150e/live.isml/.m3u8"
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         },
         {
             "id": "tapmad-16106",
