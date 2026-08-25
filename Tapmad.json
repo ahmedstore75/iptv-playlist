@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-26 02:37:29 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-08-26 03:36:03 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
             "id": "tapmad-16287",
@@ -10,13 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-15986",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876394061020x576.jpg",
-            "group": "Football",
-            "name": "Al-Ettifaq vs Al-Nassr | Saudi Pro League 2026/27",
-            "url": "https://tapmad-live.cdn.vustreams.com/live/6efd72d6-21db-4cf1-aa76-5b1252422d05/live.isml/.m3u8"
         },
         {
             "id": "tapmad-16088",
