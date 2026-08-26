@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-27 00:18:44 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-27 02:59:50 (BD Time)",
+    "channels_count": 6,
     "channels": [
         {
             "id": "tapmad-16288",
@@ -10,6 +10,41 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Qualifying | US Open 2026",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "id": "tapmad-16090",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875682371020x576.jpg",
+            "group": "Football",
+            "name": "Levski Sofia vs AEK | UEFA Champions League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-16091",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875716441020x576.jpg",
+            "group": "Football",
+            "name": "OL vs Fenerbache | UEFA Champions League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+        },
+        {
+            "id": "tapmad-16092",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875724241020x576.jpg",
+            "group": "Football",
+            "name": "Viking vs Dinamo Zagreb | UEFA Champions League 2026/27",
+            "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8"
+        },
+        {
+            "id": "tapmad-16093",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875725811020x576.jpg",
+            "group": "Football",
+            "name": "Celje vs Slovan Bratislava | UEFA Champions League 2026/27",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-16107",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876512561020x576.jpg",
+            "group": "Football",
+            "name": "Real Madrid vs Real Sociedad | Laliga 2026/27",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         }
     ]
 }
