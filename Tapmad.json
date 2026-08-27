@@ -1,22 +1,43 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-27 06:43:57 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-27 17:07:00 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
-            "id": "tapmad-15792",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876380711020x576.jpg",
+            "id": "tapmad-15926",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17873126201020x576.jpg",
             "group": "Cricket",
-            "name": "Trinbago Knight Riders vs St Lucia Kings | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            "name": "Sri Lanka vs India | India Tour of Sri Lanka 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16289",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876416771020x576.jpg",
-            "group": "Tennis",
-            "name": "Mixed Doubles Semifinals & Championship | US Open 2026",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            "id": "tapmad-16197",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878105971020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Chile vs New Zealand - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-16689",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17876652061020x576.jpg",
+            "group": "Cricket",
+            "name": "Belfast Wolves vs Dublin Guardians | European T20 Premier League 2026",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-15934",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+        },
+        {
+            "id": "tapmad-16198",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878107161020x576WOMEN.jpg",
+            "group": "Hockey",
+            "name": "Japan vs Scotland - W | FIH Hockey World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
