@@ -1,43 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-29 00:31:25 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-08-29 08:02:55 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-15934",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
+            "id": "tapmad-15794",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878329521020x576.jpg",
             "group": "Cricket",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "id": "tapmad-16209",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878186851020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "Netherlands vs Spain | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16210",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878189041020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "India vs Belgium | FIH Hockey World Cup 2026",
+            "name": "Trinbago Knight Riders vs Barbados Tridents | Caribbean Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16110",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878212411020x576.jpg",
-            "group": "Football",
-            "name": "Racing Santander vs Elche | Laliga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-16393",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878260711020x576.jpg",
-            "group": "Football",
-            "name": "Germany vs Argentina Live | Socca World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
