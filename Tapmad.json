@@ -1,43 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-30 00:19:21 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-08-30 03:05:53 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-15934",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15994",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879209561020x576.jpg",
+            "id": "tapmad-16114",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879250281020x576.jpg",
             "group": "Football",
-            "name": "Al Kholood vs Al-Ahli | Saudi Pro League 2026/27",
+            "name": "Sevilla vs Athletico Madrid | Laliga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-16113",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879249411020x576.jpg",
+            "id": "tapmad-16438",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880121451020x576.jpg",
             "group": "Football",
-            "name": "Real Sociedad vs Espanyol | Laliga 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
-        },
-        {
-            "id": "tapmad-16429",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879180341020x576.jpg",
-            "group": "Football",
-            "name": "Bulgaria vs India Live | Socca World Cup 2026",
+            "name": "Italy vs Peru Live | Socca World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-15996",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879210911020x576.jpg",
-            "group": "Football",
-            "name": "Al Fateh vs Al-Ittihad | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
