@@ -1,22 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-30 03:05:53 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-08-30 05:33:47 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-16114",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879250281020x576.jpg",
-            "group": "Football",
-            "name": "Sevilla vs Athletico Madrid | Laliga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16438",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880121451020x576.jpg",
-            "group": "Football",
-            "name": "Italy vs Peru Live | Socca World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "id": "tapmad-15795",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879096221020x576.jpg",
+            "group": "Cricket",
+            "name": "Trinbago Knight Riders vs Jamaica Kingsmen | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
