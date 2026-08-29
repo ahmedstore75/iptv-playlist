@@ -1,15 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-29 08:02:55 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-08-29 15:19:41 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-15794",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17878329521020x576.jpg",
-            "group": "Cricket",
-            "name": "Trinbago Knight Riders vs Barbados Tridents | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "id": "tapmad-16408",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879144241020x576.jpg",
+            "group": "Football",
+            "name": "Hungary vs Nigeria Live | Socca World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16348",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879033361020x576.jpg",
+            "group": "Multisports",
+            "name": "Women's Semi Final B Session - Guiyang, China Live | UIPM 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16792",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879496901020-23andlast.jpg",
+            "group": "Racing",
+            "name": "GT World Challenge powered by AWS - Practice | GT World Challenge EU & Asia 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
         }
     ]
 }
