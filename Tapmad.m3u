@@ -2,16 +2,18 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-08-30 16:37:47 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-08-30 21:17:47 (BD Time)
+#  Channels Count: 6
 #=================================
 #EXTINF:-1 tvg-id="tapmad-15934" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg" group-title="Cricket", England vs Pakistan | Pakistan Tour of England 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16360" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879077941020x576.jpg" group-title="Multisports", Women's Final Session - Guiyang, China Live | UIPM 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880133351020x576.jpg" group-title="Football", Turkiye vs Kazakhstan Live | Socca World Cup 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16828" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880138061020-23andlast.jpg" group-title="Racing", GT3 Revival Series - Race 2 | GT World Challenge EU & Asia 2026
+#EXTINF:-1 tvg-id="tapmad-16840" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg" group-title="Racing", GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-16694" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879085931020x576.jpg" group-title="Cricket", Amsterdam Flames vs Belfast Wolves | European T20 Premier League 2026
+#EXTINF:-1 tvg-id="tapmad-16695" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879089601020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Dublin Guardians | European T20 Premier League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg" group-title="Hockey", Spain vs Germany | FIH Hockey World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg" group-title="Football", Real Madrid vs Malaga | Laliga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16462" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880147801020x576.jpg" group-title="Football", Lebanon vs Georgia Live | Socca World Cup 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
