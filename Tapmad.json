@@ -1,15 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-30 05:33:47 (BD Time)",
-    "channels_count": 1,
-    "channels": [
-        {
-            "id": "tapmad-15795",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879096221020x576.jpg",
-            "group": "Cricket",
-            "name": "Trinbago Knight Riders vs Jamaica Kingsmen | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-08-30 11:08:47 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
