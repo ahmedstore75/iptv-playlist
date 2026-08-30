@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-31 00:45:05 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-08-31 03:53:29 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-16292",
@@ -12,25 +12,18 @@
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
-            "id": "tapmad-16465",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880221581020x576.jpg",
+            "id": "tapmad-16117",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879272721020x576.jpg",
             "group": "Football",
-            "name": "Uzbekistan vs Spain Live | Socca World Cup 2026",
+            "name": "Celta vs Athletic | Laliga 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-16474",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880159601020x576.jpg",
+            "group": "Football",
+            "name": "Brazil vs Luxembourg Live | Socca World Cup 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16116",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879271561020x576.jpg",
-            "group": "Football",
-            "name": "Deportivo vs Valencia | Laliga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-15998",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
-            "group": "Football",
-            "name": "Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
