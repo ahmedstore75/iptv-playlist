@@ -1,50 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-08-30 21:17:47 (BD Time)",
-    "channels_count": 6,
+    "last_updated": "2026-08-31 00:45:05 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-15934",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17875760241020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "id": "tapmad-16292",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880183251020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's & Women's Singles 1st Round | US Open 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
         },
         {
-            "id": "tapmad-16840",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880152261020-23andlast.jpg",
-            "group": "Racing",
-            "name": "GT World Challenge powered by AWS - Race | GT World Challenge EU & Asia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-        },
-        {
-            "id": "tapmad-16695",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879089601020x576.jpg",
-            "group": "Cricket",
-            "name": "Edinburgh Castle Rockers vs Dublin Guardians | European T20 Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16215",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880226891020x576MEN.jpg",
-            "group": "Hockey",
-            "name": "Spain vs Germany | FIH Hockey World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16115",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879270271020x576.jpg",
+            "id": "tapmad-16465",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880221581020x576.jpg",
             "group": "Football",
-            "name": "Real Madrid vs Malaga | Laliga 2026/27",
+            "name": "Uzbekistan vs Spain Live | Socca World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16116",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879271561020x576.jpg",
+            "group": "Football",
+            "name": "Deportivo vs Valencia | Laliga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "id": "tapmad-16462",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17880147801020x576.jpg",
+            "id": "tapmad-15998",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879212251020x576.jpg",
             "group": "Football",
-            "name": "Lebanon vs Georgia Live | Socca World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "name": "Al Qadsiah vs Al-Faisaly | Saudi Pro League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
         }
     ]
 }
