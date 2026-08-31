@@ -1,21 +1,14 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-01 01:56:10 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-09-01 05:44:02 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-5693",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881642271020x576.jpg",
-            "group": "Tennis",
-            "name": "Men's & Women's Singles 1st Round | US Open 2026",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "id": "tapmad-16118",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17879273841020x576.jpg",
-            "group": "Football",
-            "name": "Osasuna vs Getafe | Laliga 2026/27",
+            "id": "tapmad-15797",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881728971020x576.jpg",
+            "group": "Cricket",
+            "name": "Trinbago Knight Riders vs Guyana Amazon Warriors | Caribbean Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
