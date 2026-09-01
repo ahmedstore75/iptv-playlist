@@ -2,8 +2,12 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-09-01 15:55:16 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-09-01 20:42:42 (BD Time)
+#  Channels Count: 3
 #=================================
-#EXTINF:-1 tvg-id="tapmad-16516" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882400471020x576.jpg" group-title="Football", Romania vs Uzbekistan Live | Socca World Cup 2026
+#EXTINF:-1 tvg-id="tapmad-16528" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882428321020x576.jpg" group-title="Football", Argentina vs Czechia Live | Socca World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16696" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg" group-title="Cricket", Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16531" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882438151020x576.jpg" group-title="Football", Kazakhstan vs Belgium Live | Socca World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8

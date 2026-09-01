@@ -1,14 +1,28 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-01 15:55:16 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-09-01 20:42:42 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-16516",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882400471020x576.jpg",
+            "id": "tapmad-16528",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882428321020x576.jpg",
             "group": "Football",
-            "name": "Romania vs Uzbekistan Live | Socca World Cup 2026",
+            "name": "Argentina vs Czechia Live | Socca World Cup 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-16696",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg",
+            "group": "Cricket",
+            "name": "Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16531",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882438151020x576.jpg",
+            "group": "Football",
+            "name": "Kazakhstan vs Belgium Live | Socca World Cup 2026",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
