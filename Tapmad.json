@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-02 03:15:41 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-02 05:31:12 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15798",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882460711020x576.jpg",
+            "group": "Cricket",
+            "name": "St Kitts and Nevis Patriots vs Barbados Tridents | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        }
+    ]
 }
