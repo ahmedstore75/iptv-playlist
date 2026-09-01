@@ -1,29 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-01 20:42:42 (BD Time)",
+    "last_updated": "2026-09-02 00:20:51 (BD Time)",
     "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-16528",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882428321020x576.jpg",
+            "id": "tapmad-16537",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882442971020x576.jpg",
             "group": "Football",
-            "name": "Argentina vs Czechia Live | Socca World Cup 2026",
+            "name": "Spain vs Canada Live | Socca World Cup 2026",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
-            "id": "tapmad-16696",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881712711020x576.jpg",
-            "group": "Cricket",
-            "name": "Glasgow Cosmic vs Rotterdam Dockers | European T20 Premier League 2026",
+            "id": "tapmad-16540",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882444851020x576.jpg",
+            "group": "Football",
+            "name": "Turkiye vs Iraq Live | Socca World Cup 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+        },
+        {
+            "id": "tapmad-16894",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881709641020x576.jpg",
+            "group": "Football",
+            "name": "Al-Hilal vs Al-Ahli | Saudi Pro League 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16531",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882438151020x576.jpg",
-            "group": "Football",
-            "name": "Kazakhstan vs Belgium Live | Socca World Cup 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
