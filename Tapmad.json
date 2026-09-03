@@ -1,15 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-03 17:37:34 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-09-03 22:17:55 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-16586",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17884164721020x576.jpg",
-            "group": "Football",
-            "name": "Oman vs Peru Live | Socca World Cup 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16699",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882641981020x576.jpg",
+            "group": "Cricket",
+            "name": "Amsterdam Flames vs Glasgow Cosmic | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16300",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882634231020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's & Women's Singles 2nd Round | US Open 2026",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         }
     ]
 }
