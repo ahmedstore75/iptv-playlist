@@ -1,22 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-03 07:22:10 (BD Time)",
-    "channels_count": 2,
-    "channels": [
-        {
-            "id": "tapmad-15799",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882574311020x576.jpg",
-            "group": "Cricket",
-            "name": "Trinbago Knight Riders vs Antigua and Barbuda Falcons | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16299",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17882633841020x576.jpg",
-            "group": "Tennis",
-            "name": "Men's & Women's Singles 2nd Round | US Open 2026",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-03 12:23:29 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
