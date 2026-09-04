@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-05 01:48:47 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-09-05 04:17:50 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
             "id": "tapmad-16302",
@@ -10,34 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles 3rd Round | US Open 2026",
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-16625",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885128571020x576.jpg",
-            "group": "Football",
-            "name": "Kazakhstan vs Hungary Live | Socca World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16896",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296761020x576.jpg",
-            "group": "Football",
-            "name": "Al-Shabab vs Al-Hilal | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16897",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885296021020x576.jpg",
-            "group": "Football",
-            "name": "Al-Ahli vs Al-Riyadh | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-16938",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885300491020x576.jpg",
-            "group": "Football",
-            "name": "Betis vs Real Madrid | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
