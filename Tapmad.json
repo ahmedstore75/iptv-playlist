@@ -1,15 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-05 10:52:30 (BD Time)",
+    "last_updated": "2026-09-05 14:56:20 (BD Time)",
     "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-16303",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885022631020x576.jpg",
-            "group": "Tennis",
-            "name": "Men's & Women's Singles 3rd Round | US Open 2026",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+            "id": "tapmad-16634",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885626481020-23last.jpg",
+            "group": "Football",
+            "name": "Greece vs Croatia | Socca World Cup 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         }
     ]
 }
