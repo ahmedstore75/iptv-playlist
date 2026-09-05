@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-06 02:39:23 (BD Time)",
-    "channels_count": 6,
+    "last_updated": "2026-09-06 04:46:03 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
             "id": "tapmad-16304",
@@ -12,32 +12,11 @@
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "id": "tapmad-16899",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885298191020x576.jpg",
-            "group": "Football",
-            "name": "Al-Ittihad vs Al-Nassr | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-16648",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886212801020x576.jpg",
-            "group": "Football",
-            "name": "Brazil vs Croatia | Socca World Cup 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
-        },
-        {
             "id": "tapmad-16930",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885199191020x576.jpg",
             "group": "Mma",
             "name": "Hooker vs Parnasse | UFC 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16941",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885304231020x576.jpg",
-            "group": "Football",
-            "name": "Villarreal vs Deportivo | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
             "id": "tapmad-17051",
