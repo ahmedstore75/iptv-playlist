@@ -1,29 +1,43 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-05 21:55:14 (BD Time)",
-    "channels_count": 3,
+    "last_updated": "2026-09-06 00:06:54 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
-            "id": "tapmad-16634",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885626481020-23last.jpg",
+            "id": "tapmad-16304",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885023421020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's & Women's Singles 3rd Round | US Open 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16898",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885297511020x576.jpg",
             "group": "Football",
-            "name": "Greece vs Croatia | Socca World Cup 2026",
+            "name": "Al-Taawoun vs Al Fateh | Saudi Pro League 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-16637",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885633131020x576.jpg",
+            "id": "tapmad-16940",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885302081020x576.jpg",
             "group": "Football",
-            "name": "France vs Germany | Socca World Cup 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+            "name": "Rayo Vallecano vs Racing Santander | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
-            "id": "tapmad-16701",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885050981020x576.jpg",
-            "group": "Cricket",
-            "name": "Rotterdam Dockers vs Edinburgh Castle Rockers | European T20 Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            "id": "tapmad-16645",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17886203451020x576.jpg",
+            "group": "Football",
+            "name": "Germany vs Poland | Socca World Cup 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+        },
+        {
+            "id": "tapmad-17077",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885281241020x576.jpg",
+            "group": "Skating",
+            "name": "Scootering Men Final - Street Plaza Live | Extreme Barcelona 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
