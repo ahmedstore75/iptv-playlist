@@ -1,36 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-07 05:43:32 (BD Time)",
-    "channels_count": 4,
-    "channels": [
-        {
-            "id": "tapmad-16306",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725131020x576.jpg",
-            "group": "Tennis",
-            "name": "Men's & Women's Singles | US Open 2026",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        },
-        {
-            "id": "tapmad-15803",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885697191020x576.jpg",
-            "group": "Cricket",
-            "name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-15804",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885702801020x576.jpg",
-            "group": "Cricket",
-            "name": "Barbados Tridents vs St Lucia Kings | Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16307",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885725731020x576.jpg",
-            "group": "Tennis",
-            "name": "Men's & Women's Singles | US Open 2026",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-07 10:18:48 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
