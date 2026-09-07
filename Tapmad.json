@@ -1,7 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-07 21:43:16 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-08 01:49:56 (BD Time)",
+    "channels_count": 3,
+    "channels": [
+        {
+            "id": "tapmad-16308",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885726311020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's & Women's Singles | US Open 2026",
+            "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+        },
+        {
+            "id": "tapmad-16946",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17885308601020x576.jpg",
+            "group": "Football",
+            "name": "Getafe vs CELTA | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16900",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887860251020x576.jpg",
+            "group": "Football",
+            "name": "Al-Hilal vs Neom | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        }
+    ]
 }
