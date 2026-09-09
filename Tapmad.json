@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-10 01:40:26 (BD Time)",
-    "channels_count": 8,
+    "last_updated": "2026-09-10 04:26:30 (BD Time)",
+    "channels_count": 1,
     "channels": [
         {
             "id": "tapmad-16312",
@@ -10,55 +10,6 @@
             "group": "Tennis",
             "name": "Men's & Women's Singles Quarterfinals | US Open 2026",
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
-        },
-        {
-            "id": "tapmad-17019",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887847691020x576.jpg",
-            "group": "Football",
-            "name": "Barcelona vs Feyenoord | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17020",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17887856441020x576.jpg",
-            "group": "Football",
-            "name": "VFB Stuttgart vs Viking | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16904",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889442951020x576.jpg",
-            "group": "Football",
-            "name": "Al-Nassr vs Abha | Saudi Pro League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17021",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889412761020x576.jpg",
-            "group": "Football",
-            "name": "Napoli vs Arsenal | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-17022",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889421321020x576.jpg",
-            "group": "Football",
-            "name": "Liverpool vs Atletico Madrid | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17023",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889424421020x576.jpg",
-            "group": "Football",
-            "name": "PSG vs Slovan Bratislava | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17024",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889426231020x576.jpg",
-            "group": "Football",
-            "name": "SCP vs Galatasaray | UEFA Champions League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
         }
     ]
 }
