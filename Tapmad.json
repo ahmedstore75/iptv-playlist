@@ -1,7 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-09 18:16:57 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-09 22:51:23 (BD Time)",
+    "channels_count": 3,
+    "channels": [
+        {
+            "id": "tapmad-15935",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16705",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889326131020x576.jpg",
+            "group": "Cricket",
+            "name": "Dublin Guardians vs Belfast Wolves | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-16312",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17888818291020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's & Women's Singles Quarterfinals | US Open 2026",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+        }
+    ]
 }
