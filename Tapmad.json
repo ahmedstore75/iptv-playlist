@@ -1,16 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-11 03:32:19 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-09-11 05:57:41 (BD Time)",
+    "channels_count": 2,
     "channels": [
-        {
-            "id": "tapmad-17030",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890222621020x576.jpg",
-            "group": "Football",
-            "name": "Man United vs Sabah | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
         {
             "id": "tapmad-16314",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17889404011020x576.jpg",
@@ -19,25 +12,11 @@
             "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
         },
         {
-            "id": "tapmad-17027",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890217791020x576.jpg",
-            "group": "Football",
-            "name": "Bayern vs Bodo/Glimt | UEFA Champions League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17028",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890219421020x576.jpg",
-            "group": "Football",
-            "name": "Slavia Praha vs Lens | UEFA Champions League 2026/27",
+            "id": "tapmad-15807",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890184071020x576.jpg",
+            "group": "Cricket",
+            "name": "Barbados Tridents vs St Kitts and Nevis Patriots | Caribbean Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-17029",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890220801020x576.jpg",
-            "group": "Football",
-            "name": "Como vs RB Leipzig | UEFA Champions League 2026/27",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         }
     ]
 }
