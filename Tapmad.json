@@ -1,7 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-11 19:44:31 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-11 23:42:33 (BD Time)",
+    "channels_count": 4,
+    "channels": [
+        {
+            "id": "tapmad-15935",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-16708",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890193811020x576.jpg",
+            "group": "Cricket",
+            "name": "Dublin Guardians vs Edinburgh Castle Rockers | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17088",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890468111020x576.jpg",
+            "group": "Football",
+            "name": "Al Qadsiah vs Al-Ettifaq | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16316",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890190991020x576.jpg",
+            "group": "Tennis",
+            "name": "Women's Doubles Final | US Open 2026",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+        }
+    ]
 }
