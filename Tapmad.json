@@ -1,29 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-12 23:23:57 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-09-13 01:36:28 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-16710",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg",
-            "group": "Cricket",
-            "name": "Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17054",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg",
-            "group": "Cricket",
-            "name": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17090",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg",
+            "id": "tapmad-16952",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892134401020x576.jpg",
             "group": "Football",
-            "name": "Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "name": "Real Madrid vs Rayo Vallecano | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
             "id": "tapmad-16320",
@@ -33,11 +19,18 @@
             "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
         },
         {
-            "id": "tapmad-16951",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891567281020x576.jpg",
+            "id": "tapmad-17091",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892131551020x576.jpg",
             "group": "Football",
-            "name": "Athletic vs Elche | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "name": "Al-Khaleej vs Al-Nassr | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17055",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891293781020x576.jpg",
+            "group": "Cricket",
+            "name": "Barbados Tridents Women vs Jamaica Empress Women | Women's Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         }
     ]
 }
