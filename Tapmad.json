@@ -1,22 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-12 17:10:49 (BD Time)",
-    "channels_count": 2,
+    "last_updated": "2026-09-12 20:19:26 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-15935",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Pakistan | Pakistan Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            "id": "tapmad-17142",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg",
+            "group": "Boat Racing",
+            "name": "Session 1 - Q1 Live | E1 Series 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         },
         {
-            "id": "tapmad-16709",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg",
+            "id": "tapmad-16949",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
+            "group": "Football",
+            "name": "Racing Santander vs Alaves | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16710",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg",
             "group": "Cricket",
-            "name": "Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026",
+            "name": "Dublin Guardians vs Glasgow Cosmic | European T20 Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17054",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890235561020x576.jpg",
+            "group": "Cricket",
+            "name": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         }
     ]
 }
