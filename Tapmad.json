@@ -1,23 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-12 20:19:26 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-09-12 23:23:57 (BD Time)",
+    "channels_count": 5,
     "channels": [
-        {
-            "id": "tapmad-17142",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890313571020x576.jpg",
-            "group": "Boat Racing",
-            "name": "Session 1 - Q1 Live | E1 Series 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        },
-        {
-            "id": "tapmad-16949",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891563251020x576.jpg",
-            "group": "Football",
-            "name": "Racing Santander vs Alaves | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
         {
             "id": "tapmad-16710",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890283711020x576.jpg",
@@ -31,6 +17,27 @@
             "group": "Cricket",
             "name": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women | Women's Caribbean Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17090",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891557791020x576.jpg",
+            "group": "Football",
+            "name": "Al-Taawoun vs Al-Hilal | Saudi Pro League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16320",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890279041020x576.jpg",
+            "group": "Tennis",
+            "name": "Men's Doubles Final | US Open 2026",
+            "url": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8"
+        },
+        {
+            "id": "tapmad-16951",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891567281020x576.jpg",
+            "group": "Football",
+            "name": "Athletic vs Elche | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         }
     ]
 }
