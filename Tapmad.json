@@ -1,15 +1,22 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-12 12:24:37 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-09-12 17:10:49 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-17179",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891117101020x576.jpg",
-            "group": "Racing",
-            "name": "Japan Cup Race 1 Live | GT World Challenge EU & Asia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-15935",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17881781931020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Pakistan | Pakistan Tour of England 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16709",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17890282571020x576.jpg",
+            "group": "Cricket",
+            "name": "Belfast Wolves vs Rotterdam Dockers | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
