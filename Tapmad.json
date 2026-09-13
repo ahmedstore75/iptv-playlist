@@ -1,29 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-13 16:33:07 (BD Time)",
+    "last_updated": "2026-09-13 20:53:23 (BD Time)",
     "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-17209",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg",
-            "group": "Racing",
-            "name": "Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "id": "tapmad-16953",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892142251020x576.jpg",
+            "group": "Football",
+            "name": "Celta vs Malaga | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "id": "tapmad-16711",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892918541020x576.jpg",
+            "id": "tapmad-16712",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892921111020x576.jpg",
             "group": "Cricket",
-            "name": "Edinburgh Castle Rockers vs Amsterdam Flames | European T20 Premier League 2026",
+            "name": "Belfast Wolves vs Glasgow Cosmic | European T20 Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-17152",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892435821020x576.jpg",
-            "group": "Boat Racing",
-            "name": "Session 3 - Group Stages Live | E1 Series 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-17470",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892481601020x576.jpg",
+            "group": "Cricket",
+            "name": "India vs Afghanistan | India Tour of Afghanistan 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         }
     ]
 }
