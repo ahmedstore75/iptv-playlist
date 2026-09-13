@@ -2,10 +2,12 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-09-13 11:16:48 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-09-13 16:33:07 (BD Time)
+#  Channels Count: 3
 #=================================
-#EXTINF:-1 tvg-id="tapmad-15809" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17891290981020x576.jpg" group-title="Cricket", Barbados Tridents vs Jamaica Kingsmen | Caribbean Premier League 2026
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17209" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892426431020x576.jpg" group-title="Racing", Suzuka 1000 Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16711" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892918541020x576.jpg" group-title="Cricket", Edinburgh Castle Rockers vs Amsterdam Flames | European T20 Premier League 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17152" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892435821020x576.jpg" group-title="Boat Racing", Session 3 - Group Stages Live | E1 Series 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
