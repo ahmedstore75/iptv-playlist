@@ -2,8 +2,14 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-09-14 20:57:28 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-09-15 01:48:40 (BD Time)
+#  Channels Count: 4
 #=================================
-#EXTINF:-1 tvg-id="tapmad-17297" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893695951020x576.jpg" group-title="Football", PFC Neftchi vs Air Force SC Live | AFC Champions League Elite 2026/27
+#EXTINF:-1 tvg-id="tapmad-17312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893740871020x576.jpg" group-title="Football", Al Ahli Saudi FC vs Pakhtakor Live | AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17317" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893978571020x576.jpg" group-title="Football", Esteghlal FC vs Al Sadd SC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17322" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893735921020x576.jpg" group-title="Football", Al Qadsiah Club vs Al Wasl FC Live | AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-16957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893765981020x576.jpg" group-title="Football", Villarreal vs Betis | LaLiga 2026/27
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
