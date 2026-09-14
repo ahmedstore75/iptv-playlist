@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-14 13:49:59 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-14 20:57:28 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-17297",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893695951020x576.jpg",
+            "group": "Football",
+            "name": "PFC Neftchi vs Air Force SC Live | AFC Champions League Elite 2026/27",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        }
+    ]
 }
