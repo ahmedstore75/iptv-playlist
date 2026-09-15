@@ -1,35 +1,14 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-15 23:44:28 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-09-16 03:11:12 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
-            "id": "tapmad-16714",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg",
-            "group": "Cricket",
-            "name": "Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17471",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg",
-            "group": "Cricket",
-            "name": "India vs Afghanistan | India Tour of Afghanistan 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17357",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894564651020x576.jpg",
+            "id": "tapmad-16960",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894708691020x576.jpg",
             "group": "Football",
-            "name": "Al Ain FC vs Al Nassr Club Live | AFC Champions League Elite 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-16958",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg",
-            "group": "Football",
-            "name": "Rayo Vallecano vs Espanyol | LaLiga 2026/27",
+            "name": "Elche vs Real Madrid | LaLiga 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
