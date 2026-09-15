@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-15 13:35:32 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-09-15 19:25:15 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
             "id": "tapmad-17374",
@@ -10,6 +10,27 @@
             "group": "Cricket",
             "name": "Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-16713",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
+            "group": "Cricket",
+            "name": "Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+        },
+        {
+            "id": "tapmad-17347",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg",
+            "group": "Football",
+            "name": "Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-17352",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894559191020x576.jpg",
+            "group": "Football",
+            "name": "Beijing FC vs FC Pohang Steelers Live | AFC Champions League Elite 2026/27",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
         }
     ]
 }
