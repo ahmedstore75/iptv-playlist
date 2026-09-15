@@ -1,22 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-16 03:11:12 (BD Time)",
-    "channels_count": 2,
-    "channels": [
-        {
-            "id": "tapmad-16960",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894708691020x576.jpg",
-            "group": "Football",
-            "name": "Elche vs Real Madrid | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-17383",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893786531020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-16 05:38:23 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
