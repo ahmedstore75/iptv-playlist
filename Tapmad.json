@@ -1,36 +1,43 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-15 19:25:15 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-09-15 23:44:28 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
-            "id": "tapmad-17374",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg",
+            "id": "tapmad-16714",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893799021020x576.jpg",
             "group": "Cricket",
-            "name": "Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+            "name": "Edinburgh Castle Rockers vs Rotterdam Dockers | European T20 Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-16713",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893797671020x576.jpg",
+            "id": "tapmad-17471",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg",
             "group": "Cricket",
-            "name": "Amsterdam Flames vs Dublin Guardians | European T20 Premier League 2026",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+            "name": "India vs Afghanistan | India Tour of Afghanistan 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
-            "id": "tapmad-17347",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894549001020x576.jpg",
+            "id": "tapmad-17357",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894564651020x576.jpg",
             "group": "Football",
-            "name": "Johor Darul Ta'zim FC vs Buriram United Live | AFC Champions League Elite 2026/27",
+            "name": "Al Ain FC vs Al Nassr Club Live | AFC Champions League Elite 2026/27",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         },
         {
-            "id": "tapmad-17352",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894559191020x576.jpg",
+            "id": "tapmad-16958",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893766701020x576.jpg",
             "group": "Football",
-            "name": "Beijing FC vs FC Pohang Steelers Live | AFC Champions League Elite 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+            "name": "Rayo Vallecano vs Espanyol | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+        },
+        {
+            "id": "tapmad-17383",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893786531020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         }
     ]
 }
