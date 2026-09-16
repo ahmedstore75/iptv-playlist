@@ -1,50 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-17 00:47:59 (BD Time)",
-    "channels_count": 6,
-    "channels": [
-        {
-            "id": "tapmad-17276",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894729601020x576.jpg",
-            "group": "Football",
-            "name": "Omonoia vs Celta | UEFA Europa League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17277",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894731451020x576.jpg",
-            "group": "Football",
-            "name": "Ararat-Armenia vs Sparta Praha | UEFA Europa League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-16961",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894709731020x576.jpg",
-            "group": "Football",
-            "name": "Deportivo vs Sevilla | LaLiga 2026/27",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "id": "tapmad-16962",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17894711081020x576.jpg",
-            "group": "Football",
-            "name": "Atletico Madrid vs Osasuna | LaLiga 2026/27",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        },
-        {
-            "id": "tapmad-17432",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895452021020x576.jpg",
-            "group": "Football",
-            "name": "Al Rayyan SC vs Al Faisaly Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
-        {
-            "id": "tapmad-17437",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895456521020x576.jpg",
-            "group": "Football",
-            "name": "Al Shorta vs Al Seeb Club Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-17 04:02:11 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
