@@ -1,36 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-17 17:33:08 (BD Time)",
+    "last_updated": "2026-09-17 22:48:13 (BD Time)",
     "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-16716",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895490801020x576.jpg",
+            "id": "tapmad-16717",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895491991020x576.jpg",
             "group": "Cricket",
-            "name": "Edinburgh Castle Rockers vs Belfast Wolves | European T20 Premier League 2026",
+            "name": "Rotterdam Dockers vs Dublin Guardians | European T20 Premier League 2026",
             "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-17442",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896278231020x576.jpg",
-            "group": "Football",
-            "name": "Lion City Sailors FC (SGP) vs BG Pathum United (THA) Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-17472",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895399661020x576.jpg",
+            "group": "Cricket",
+            "name": "India vs Afghanistan | India Tour of Afghanistan 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-17447",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896282781020x576.jpg",
+            "id": "tapmad-17285",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895534131020x576.jpg",
             "group": "Football",
-            "name": "Adelaide United FC (AUS) vs Tai Po FC (HKG) Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8"
+            "name": "Levski Sofia vs RB Salzburg | UEFA Europa League 2026/27",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         },
         {
-            "id": "tapmad-17452",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896286361020x576.jpg",
+            "id": "tapmad-17286",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895566631020x576.jpg",
             "group": "Football",
-            "name": "FC Machida Zelvia (JPN) vs Preah Khan Reach Svay Rieng FC (CAM) Live | AFC Champions League Two 2026/27",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "name": "OFI vs Hoffenheim | UEFA Europa League 2026/27",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
         }
     ]
 }
