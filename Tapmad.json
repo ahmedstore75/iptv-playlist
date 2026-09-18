@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-18 12:30:51 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-18 18:11:04 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-17375",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895630001020x576.jpg",
+            "group": "Cricket",
+            "name": "Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        }
+    ]
 }
