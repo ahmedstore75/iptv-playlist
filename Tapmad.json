@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-18 05:00:54 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-09-18 07:24:53 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-15812",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17895576171020x576.jpg",
+            "group": "Cricket",
+            "name": "Anitgua and Barbuda Falcons vs Guyana Amazon Warriors | Caribbean Premier League 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        }
+    ]
 }
