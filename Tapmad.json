@@ -1,23 +1,9 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-19 20:17:45 (BD Time)",
-    "channels_count": 6,
+    "last_updated": "2026-09-19 23:22:56 (BD Time)",
+    "channels_count": 4,
     "channels": [
-        {
-            "id": "tapmad-16967",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897167661020x576.jpg",
-            "group": "Football",
-            "name": "Osasuna vs Rayo Vallecano | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17545",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897682321020-23andlast.jpg",
-            "group": "Racing",
-            "name": "GT World Challenge powered by AWS - Race 1 | GT World Challenge EU & Asia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-        },
         {
             "id": "tapmad-16718",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897340941020x576.jpg",
@@ -26,25 +12,25 @@
             "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         },
         {
-            "id": "tapmad-17385",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17896740041020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Sri Lanka | Sri Lanka Tour of England 2026",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
-        },
-        {
-            "id": "tapmad-16968",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897168551020x576.jpg",
+            "id": "tapmad-17683",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg",
             "group": "Football",
-            "name": "Athletic vs Alaves | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+            "name": "Paris FC vs Strasbourg | French Ligue 1 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-17551",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897692321020-23andlast.jpg",
+            "id": "tapmad-17557",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897700091020-23andlast.jpg",
             "group": "Racing",
-            "name": "Porsche Carrera Cup France - Race 1 | GT World Challenge EU & Asia 2026",
+            "name": "GT4 European Series - Race 1 | GT World Challenge EU & Asia 2026",
             "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+            "id": "tapmad-16969",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897169251020x576.jpg",
+            "group": "Football",
+            "name": "Celta vs Racing Santander | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         }
     ]
 }
