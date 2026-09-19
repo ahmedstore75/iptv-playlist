@@ -1,8 +1,8 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-20 01:32:22 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-09-20 04:17:34 (BD Time)",
+    "channels_count": 2,
     "channels": [
         {
             "id": "tapmad-16970",
@@ -12,32 +12,11 @@
             "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-17684",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg",
-            "group": "Football",
-            "name": "Le Mans vs Lorient | French Ligue 1 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        },
-        {
             "id": "tapmad-17685",
             "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg",
             "group": "Football",
             "name": "OL vs Rennes | French Ligue 1 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17686",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg",
-            "group": "Football",
-            "name": "Toulouse vs Le Havre | French Ligue 1 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17687",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg",
-            "group": "Football",
-            "name": "Angers vs Troyes | French Ligue 1 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
