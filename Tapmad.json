@@ -1,36 +1,43 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-19 23:22:56 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-09-20 01:32:22 (BD Time)",
+    "channels_count": 5,
     "channels": [
         {
-            "id": "tapmad-16718",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897340941020x576.jpg",
-            "group": "Cricket",
-            "name": "Belfast Wolves vs Amsterdam Flames | European T20 Premier League 2026",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
+            "id": "tapmad-16970",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898316371020x576.jpg",
+            "group": "Football",
+            "name": "Sevilla vs Barcelona | LaLiga 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
         },
         {
-            "id": "tapmad-17683",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898100201020x576.jpg",
+            "id": "tapmad-17684",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898299031020x576.jpg",
             "group": "Football",
-            "name": "Paris FC vs Strasbourg | French Ligue 1 2026/27",
+            "name": "Le Mans vs Lorient | French Ligue 1 2026/27",
             "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
         },
         {
-            "id": "tapmad-17557",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897700091020-23andlast.jpg",
-            "group": "Racing",
-            "name": "GT4 European Series - Race 1 | GT World Challenge EU & Asia 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-17685",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898303781020x576.jpg",
+            "group": "Football",
+            "name": "OL vs Rennes | French Ligue 1 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
         },
         {
-            "id": "tapmad-16969",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17897169251020x576.jpg",
+            "id": "tapmad-17686",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898310121020x576.jpg",
             "group": "Football",
-            "name": "Celta vs Racing Santander | LaLiga 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+            "name": "Toulouse vs Le Havre | French Ligue 1 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17687",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17898313201020x576.jpg",
+            "group": "Football",
+            "name": "Angers vs Troyes | French Ligue 1 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
