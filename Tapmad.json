@@ -1,29 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-28 03:14:58 (BD Time)",
-    "channels_count": 3,
-    "channels": [
-        {
-            "id": "tapmad-17854",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg",
-            "group": "Football",
-            "name": "Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-        },
-        {
-            "id": "tapmad-17855",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg",
-            "group": "Football",
-            "name": "Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-17856",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg",
-            "group": "Football",
-            "name": "Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-28 05:54:19 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
