@@ -1,15 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-27 07:17:40 (BD Time)",
+    "last_updated": "2026-09-27 13:01:32 (BD Time)",
     "channels_count": 1,
     "channels": [
         {
-            "id": "tapmad-16936",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17902392281020x576.jpg",
-            "group": "Mma",
-            "name": "Rosas Jr. vs Barcelos - Fight Night - UFC 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            "id": "tapmad-17952",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903193761020x576.jpg",
+            "group": "Cycling",
+            "name": "Shah Alam to Kampar Live - Stage 1 - Le Tour de Langkawi 2026",
+            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
         }
     ]
 }
