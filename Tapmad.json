@@ -1,36 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-27 19:14:33 (BD Time)",
+    "last_updated": "2026-09-27 23:54:56 (BD Time)",
     "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-17698",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900692921020x576.jpg",
-            "group": "Cricket",
-            "name": "South Africa vs Australia - 2nd ODI - Australia Tour of South Africa 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17711",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17901433451020x576.jpg",
-            "group": "Cricket",
-            "name": "India vs West Indies - 1st ODI - West Indies Tour of India 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17388",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17899859771020x576.jpg",
-            "group": "Cricket",
-            "name": "England vs Sri Lanka - 3rd ODI - Sri Lanka Tour of England 2026",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17849",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904431811020x576.jpg",
+            "id": "tapmad-17850",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904434171020x576.jpg",
             "group": "Football",
-            "name": "Lithuania vs Azerbaijan - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
+            "name": "Denmark vs Wales - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17851",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904437891020x576.jpg",
+            "group": "Football",
+            "name": "Serbia vs Netherlands - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17852",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904439661020x576.jpg",
+            "group": "Football",
+            "name": "Gibraltar vs Andorra - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+        },
+        {
+            "id": "tapmad-17853",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904442961020x576.jpg",
+            "group": "Football",
+            "name": "Austria vs Kosovo - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
         }
     ]
 }
