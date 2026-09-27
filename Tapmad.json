@@ -1,36 +1,29 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-27 23:54:56 (BD Time)",
-    "channels_count": 4,
+    "last_updated": "2026-09-28 03:14:58 (BD Time)",
+    "channels_count": 3,
     "channels": [
         {
-            "id": "tapmad-17850",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904434171020x576.jpg",
+            "id": "tapmad-17854",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg",
             "group": "Football",
-            "name": "Denmark vs Wales - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+            "name": "Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
         },
         {
-            "id": "tapmad-17851",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904437891020x576.jpg",
+            "id": "tapmad-17855",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg",
             "group": "Football",
-            "name": "Serbia vs Netherlands - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
+            "name": "Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         },
         {
-            "id": "tapmad-17852",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904439661020x576.jpg",
+            "id": "tapmad-17856",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg",
             "group": "Football",
-            "name": "Gibraltar vs Andorra - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
-        },
-        {
-            "id": "tapmad-17853",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904442961020x576.jpg",
-            "group": "Football",
-            "name": "Austria vs Kosovo - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+            "name": "Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8"
         }
     ]
 }

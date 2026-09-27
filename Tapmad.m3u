@@ -2,14 +2,12 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-09-27 23:54:56 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-09-28 03:14:58 (BD Time)
+#  Channels Count: 3
 #=================================
-#EXTINF:-1 tvg-id="tapmad-17850" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904434171020x576.jpg" group-title="Football", Denmark vs Wales - MATCHDAY 2 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17851" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904437891020x576.jpg" group-title="Football", Serbia vs Netherlands - MATCHDAY 2 - UEFA Nations League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904439661020x576.jpg" group-title="Football", Gibraltar vs Andorra - MATCHDAY 2 - UEFA Nations League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17853" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904442961020x576.jpg" group-title="Football", Austria vs Kosovo - MATCHDAY 2 - UEFA Nations League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904445191020x576.jpg" group-title="Football", Norway vs Portugal - MATCHDAY 2 - UEFA Nations League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904447101020x576.jpg" group-title="Football", Israel vs Ireland - MATCHDAY 2 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904449471020x576.jpg" group-title="Football", Germany vs Greece - MATCHDAY 2 - UEFA Nations League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
