@@ -1,15 +1,36 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-27 13:01:32 (BD Time)",
-    "channels_count": 1,
+    "last_updated": "2026-09-27 19:14:33 (BD Time)",
+    "channels_count": 4,
     "channels": [
         {
-            "id": "tapmad-17952",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903193761020x576.jpg",
-            "group": "Cycling",
-            "name": "Shah Alam to Kampar Live - Stage 1 - Le Tour de Langkawi 2026",
-            "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+            "id": "tapmad-17698",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900692921020x576.jpg",
+            "group": "Cricket",
+            "name": "South Africa vs Australia - 2nd ODI - Australia Tour of South Africa 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+        },
+        {
+            "id": "tapmad-17711",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17901433451020x576.jpg",
+            "group": "Cricket",
+            "name": "India vs West Indies - 1st ODI - West Indies Tour of India 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17388",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17899859771020x576.jpg",
+            "group": "Cricket",
+            "name": "England vs Sri Lanka - 3rd ODI - Sri Lanka Tour of England 2026",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+        },
+        {
+            "id": "tapmad-17849",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904431811020x576.jpg",
+            "group": "Football",
+            "name": "Lithuania vs Azerbaijan - MATCHDAY 2 - UEFA Nations League 2026/27",
+            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
         }
     ]
 }
