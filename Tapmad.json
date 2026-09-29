@@ -1,43 +1,7 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-09-29 01:35:12 (BD Time)",
-    "channels_count": 5,
-    "channels": [
-        {
-            "id": "tapmad-17860",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904483411020x576.jpg",
-            "group": "Football",
-            "name": "Romania vs Bosnia and Herzegovina - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8"
-        },
-        {
-            "id": "tapmad-17861",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904486951020x576.jpg",
-            "group": "Football",
-            "name": "Belgium vs France - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17862",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904490751020x576.jpg",
-            "group": "Football",
-            "name": "Northern Ireland vs Hungary - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-        },
-        {
-            "id": "tapmad-17863",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904492891020x576.jpg",
-            "group": "Football",
-            "name": "Turkiye vs Italy - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
-        },
-        {
-            "id": "tapmad-17864",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17904494961020x576.jpg",
-            "group": "Football",
-            "name": "Sweden vs Poland - MATCHDAY 2 - UEFA Nations League 2026/27",
-            "url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
-        }
-    ]
+    "last_updated": "2026-09-29 06:19:10 (BD Time)",
+    "channels_count": 0,
+    "channels": []
 }
