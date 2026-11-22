@@ -5,7 +5,7 @@ import pytz
 
 M3U_OUTPUT_FILE = "Tapmad.m3u"
 JSON_OUTPUT_FILE = "Tapmad.json"
-RAW_M3U_URL = "https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/main/Tapmad_sm.m3u"
+RAW_M3U_URL = "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u"
 
 def parse_and_update_playlists():
     try:
