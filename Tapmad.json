@@ -1,43 +1,57 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-11-24 18:20:22 (BD Time)",
-    "channels_count": 5,
+    "last_updated": "2026-11-25 04:42:37 (BD Time)",
+    "channels_count": 7,
     "channels": [
         {
-            "id": "tapmad-19768",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951652401020x576.jpg",
+            "id": "tapmad-19401",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955043021020x576.jpg",
             "group": "Football",
-            "name": "Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+            "name": "Slovan Bratislava vs Real Betis - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
         },
         {
-            "id": "tapmad-19763",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951645181020x576.jpg",
+            "id": "tapmad-19400",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955040911020x576.jpg",
             "group": "Football",
-            "name": "Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+            "name": "Real Madrid vs PSV Eindhoven - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
         },
         {
-            "id": "tapmad-19783",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951656921020x576.jpg",
+            "id": "tapmad-19399",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955039431020x576.jpg",
             "group": "Football",
-            "name": "Cong An Ha Noi (VIE) vs Vissel Kobe (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
+            "name": "RB Leipzig vs Lens - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         },
         {
-            "id": "tapmad-19778",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951660221020x576.jpg",
+            "id": "tapmad-19398",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955037091020x576.jpg",
             "group": "Football",
-            "name": "Ratchaburi FC (THA) vs Johor Darul Ta'zim FC (MAS) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+            "name": "Manchester City vs Napoli - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8"
         },
         {
-            "id": "tapmad-19773",
-            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951663191020x576.jpg",
+            "id": "tapmad-19397",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955035741020x576.jpg",
             "group": "Football",
-            "name": "Shanghai Port FC (CHN) vs Buriram United (THA) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-            "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+            "name": "Feyenoord vs Porto - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        },
+        {
+            "id": "tapmad-19396",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955034421020x576.jpg",
+            "group": "Football",
+            "name": "Como vs AEK Athens - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+        },
+        {
+            "id": "tapmad-19395",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955031441020x576.jpg",
+            "group": "Football",
+            "name": "Arsenal vs Borussia Dortmund - MATCHDAY 5 - UEFA Champions League 2026/27",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
         }
     ]
 }
