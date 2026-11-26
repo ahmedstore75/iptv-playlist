@@ -1,7 +1,15 @@
 {
     "developer": "Ahammad Ali",
     "telegram": "https://t.me/banglatvlivefree",
-    "last_updated": "2026-11-26 06:12:20 (BD Time)",
-    "channels_count": 0,
-    "channels": []
+    "last_updated": "2026-11-26 14:49:05 (BD Time)",
+    "channels_count": 1,
+    "channels": [
+        {
+            "id": "tapmad-19212",
+            "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954150991020x576.jpg",
+            "group": "Cricket",
+            "name": "Sydney Sixers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026",
+            "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+        }
+    ]
 }

@@ -2,12 +2,14 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-11-26 06:12:20 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-11-26 14:49:05 (BD Time)
+#  Channels Count: 1
 #=================================
 # Playlist Name: Tapmad bd
-# Last Update: 06:00 AM 26-11-2026
+# Last Update: 02:45 PM 26-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTM3U
+#EXTINF:-1 tvg-id="tapmad-19212" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954150991020x576.jpg" group-title="Cricket", Sydney Sixers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
