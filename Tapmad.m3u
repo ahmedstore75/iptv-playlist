@@ -2,28 +2,22 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-11-27 00:56:27 (BD Time)
-#  Channels Count: 8
+#  Last Updated: 2026-11-27 08:07:24 (BD Time)
+#  Channels Count: 5
 #=================================
 # Playlist Name: Tapmad bd
-# Last Update: 12:45 AM 27-11-2026
+# Last Update: 08:00 AM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-19866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953681111020x576.jpg" group-title="Football", Celta vs Bournemouth - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19865" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953678191020x576.jpg" group-title="Football", Olympiacos vs Milan - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19864" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953673911020x576.jpg" group-title="Football", RB Salzburg vs Ararat-Armenia - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19863" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953671451020x576.jpg" group-title="Football", Dinamo Zagreb vs Leverkusen - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19862" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953669121020x576.jpg" group-title="Football", Union vs Lech Poznan - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19861" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953666651020x576.jpg" group-title="Football", Viktoria Plzen vs Benfica - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19860" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953663881020x576.jpg" group-title="Football", Besiktas vs H. Beer-Sheva - MATCHDAY 5 - UEFA Europa League 2026/27
+#EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953661291020x576.jpg" group-title="Football", Marseille vs Levski Sofia - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 2
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-20521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957207731020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 1 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20524" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957211221020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 2 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20527" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957214751020-23andlast.jpg" group-title="Racing", GT1 Race Club - Race 1 - Adelaide, Australia - Race 1 - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
