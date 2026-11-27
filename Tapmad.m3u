@@ -2,22 +2,24 @@
 #=================================
 #  Developed by: Ahammad Ali
 #  Telegram: https://t.me/banglatvlivefree
-#  Last Updated: 2026-11-27 08:07:24 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-27 17:18:51 (BD Time)
+#  Channels Count: 6
 #=================================
 # Playlist Name: Tapmad bd
-# Last Update: 08:00 AM 27-11-2026
+# Last Update: 05:15 PM 27-11-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Albatr0sss
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 2
+#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Cricket", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948132271020x576.jpg" group-title="Cricket", Australia vs England - 3rd T20I - England Tour of Australia 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-20521" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957207731020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 1 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20524" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957211221020-23andlast.jpg" group-title="Racing", GTWCA - Qualifying Round - Part 2 - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20527" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957214751020-23andlast.jpg" group-title="Racing", GT1 Race Club - Race 1 - Adelaide, Australia - Race 1 - GT World Challenge EU & Asia 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20370" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956794791020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Arambagh Krira Shangha - Round 6 - Bangladesh Football League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20369" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956794001020x576.jpg" group-title="Football", Rahamatgonj MFS vs Mohammedan SC Ltd - Round 6 - Bangladesh Football League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956792471020x576.jpg" group-title="Football", Bangladesh Police FC vs Abahani Ltd. Dhaka - Round 6 - Bangladesh Football League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954152531020x576.jpg" group-title="Cricket", Perth Scorchers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
